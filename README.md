@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy_s.gif?cid=ecf05e47lhcljutywi7689whqipcdo7qoqnyh1d44jtmeoe8&rid=giphy_s.gif" width="100"/>
+  <img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="100"/>
 </div>
 <!--
 **Alzomra/Alzomra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
