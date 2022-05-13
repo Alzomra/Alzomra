@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ansible , AWS , TDD**
 
-- 👨‍💻 All of my projects are available at [github.com/alzomra](github.com/alzomra)
+- 👨‍💻 All of my projects are available at [github.com/alzomra](https://github.com/alzomra)
 
 - 💬 Ask me about **Discord Bot Development / API Development**
 
