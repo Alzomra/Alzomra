@@ -37,9 +37,9 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-📄%20My%20Website-000)](https://https://github.com/Alzomra/Personal-website)
-[![](https://img.shields.io/badge/-🤖%20Competitive%20Coding%20Discord%20Bot-000)](https://https://github.com/Alzomra/Praccforces)
-[![](https://img.shields.io/badge/-📱%20Stattrack-000)](https://https://github.com/Alzomra/PFA)
+[![](https://img.shields.io/badge/-📄%20My%20Website-000)](https://github.com/Alzomra/Personal-website)
+[![](https://img.shields.io/badge/-🤖%20Competitive%20Coding%20Discord%20Bot-000)](https://github.com/Alzomra/Praccforces)
+[![](https://img.shields.io/badge/-📱%20Stattrack-000)](https://github.com/Alzomra/PFA)
 
 <a href="https://www.alzomra.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=alzomra&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000,52fa5a&theme=graywhite"/></a>
 
